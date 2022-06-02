@@ -8,8 +8,6 @@ Open chrome://chrome-signin
 Type in marsha.west@d11.org
 <br>
 <br>
-<br>
-<br>
 Select Google Workspace Account
 <br>
 <br>
